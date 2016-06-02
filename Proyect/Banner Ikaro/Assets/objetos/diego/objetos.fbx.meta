@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: df57dbb6b76281840a4a13750722d783
+timeCreated: 1463108378
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone.001
+    100004: Bone.001_end
+    100006: Bone.002
+    100008: Bone.002_end
+    100010: Bone.003
+    100012: Bone.003_end
+    100014: Bone.004
+    100016: Bone.004_end
+    100018: Bone.005
+    100020: Bone_end
+    100022: Ikaro
+    100024: //RootNode
+    100026: Planetas
+    100028: Plano
+    100030: Plano.001
+    100032: Rig Edificio
+    100034: Rig Planetas
+    100036: sol
+    100038: sol.001
+    100040: sol.001_end
+    100042: sol.002
+    100044: sol.002_end
+    100046: sol.003
+    100048: sol.003_end
+    100050: sol.004
+    100052: sol.004_end
+    100054: sol.005
+    100056: sol.005_end
+    100058: sol.006
+    100060: sol.006_end
+    100062: sol.007
+    100064: sol.007_end
+    100066: sol.008
+    100068: sol.008_end
+    100070: sol.017
+    100072: sol_end
+    400000: Bone
+    400002: Bone.001
+    400004: Bone.001_end
+    400006: Bone.002
+    400008: Bone.002_end
+    400010: Bone.003
+    400012: Bone.003_end
+    400014: Bone.004
+    400016: Bone.004_end
+    400018: Bone.005
+    400020: Bone_end
+    400022: Ikaro
+    400024: //RootNode
+    400026: Planetas
+    400028: Plano
+    400030: Plano.001
+    400032: Rig Edificio
+    400034: Rig Planetas
+    400036: sol
+    400038: sol.001
+    400040: sol.001_end
+    400042: sol.002
+    400044: sol.002_end
+    400046: sol.003
+    400048: sol.003_end
+    400050: sol.004
+    400052: sol.004_end
+    400054: sol.005
+    400056: sol.005_end
+    400058: sol.006
+    400060: sol.006_end
+    400062: sol.007
+    400064: sol.007_end
+    400066: sol.008
+    400068: sol.008_end
+    400070: sol.017
+    400072: sol_end
+    2300000: Ikaro
+    2300002: Plano
+    3300000: Ikaro
+    3300002: Plano
+    4300000: Ikaro
+    4300002: Plano
+    4300004: Plano.001
+    4300006: Planetas
+    7400000: Scene
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Planetas
+    13700002: Plano.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Scene
+      takeName: Scene
+      firstFrame: 0
+      lastFrame: 2119
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ikaro
+        weight: 1
+      - path: Planetas
+        weight: 1
+      - path: Plano
+        weight: 1
+      - path: Plano.001
+        weight: 1
+      - path: Rig Edificio
+        weight: 1
+      - path: Rig Edificio/Bone.005
+        weight: 1
+      - path: Rig Edificio/Bone.005/Bone
+        weight: 1
+      - path: Rig Edificio/Bone.005/Bone/Bone_end
+        weight: 1
+      - path: Rig Edificio/Bone.005/Bone.001
+        weight: 1
+      - path: Rig Edificio/Bone.005/Bone.001/Bone.001_end
+        weight: 1
+      - path: Rig Edificio/Bone.005/Bone.002
+        weight: 1
+      - path: Rig Edificio/Bone.005/Bone.002/Bone.002_end
+        weight: 1
+      - path: Rig Edificio/Bone.005/Bone.003
+        weight: 1
+      - path: Rig Edificio/Bone.005/Bone.003/Bone.003_end
+        weight: 1
+      - path: Rig Edificio/Bone.005/Bone.004
+        weight: 1
+      - path: Rig Edificio/Bone.005/Bone.004/Bone.004_end
+        weight: 1
+      - path: Rig Planetas
+        weight: 1
+      - path: Rig Planetas/sol
+        weight: 1
+      - path: Rig Planetas/sol/sol_end
+        weight: 1
+      - path: Rig Planetas/sol.017
+        weight: 1
+      - path: Rig Planetas/sol.017/sol.001
+        weight: 1
+      - path: Rig Planetas/sol.017/sol.001/sol.001_end
+        weight: 1
+      - path: Rig Planetas/sol.017/sol.002
+        weight: 1
+      - path: Rig Planetas/sol.017/sol.002/sol.002_end
+        weight: 1
+      - path: Rig Planetas/sol.017/sol.003
+        weight: 1
+      - path: Rig Planetas/sol.017/sol.003/sol.003_end
+        weight: 1
+      - path: Rig Planetas/sol.017/sol.004
+        weight: 1
+      - path: Rig Planetas/sol.017/sol.004/sol.004_end
+        weight: 1
+      - path: Rig Planetas/sol.017/sol.005
+        weight: 1
+      - path: Rig Planetas/sol.017/sol.005/sol.005_end
+        weight: 1
+      - path: Rig Planetas/sol.017/sol.006
+        weight: 1
+      - path: Rig Planetas/sol.017/sol.006/sol.006_end
+        weight: 1
+      - path: Rig Planetas/sol.017/sol.007
+        weight: 1
+      - path: Rig Planetas/sol.017/sol.007/sol.007_end
+        weight: 1
+      - path: Rig Planetas/sol.017/sol.008
+        weight: 1
+      - path: Rig Planetas/sol.017/sol.008/sol.008_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
